@@ -1,0 +1,36 @@
+.graph-main {
+  position: relative;
+  width: 820px;
+  height: 400px;
+  margin-top: 26px;
+}
+.chart-container {
+  width: 100%;
+  position: relative;
+}
+
+.chart-title {
+  font-size: 24px;
+  font-weight: bold;
+  color: #333;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.bar-chart-container {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  z-index: 1;
+}
+
+.custom-tooltip {
+  padding: 8px 14px;
+  background: #1a243a;
+  border-radius: 5px;
+  color: white;
+  font-size: 14px;
+  font-weight: bold;
+  text-align: center;
+}

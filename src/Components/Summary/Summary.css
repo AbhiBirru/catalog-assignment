@@ -1,0 +1,49 @@
+.summary-container {
+  background: linear-gradient(180deg, #dad9f8 0%, rgba(255, 255, 255, 0) 100%);
+
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  max-width: 1000px;
+  margin: 20px 0;
+}
+
+.summary-title {
+  color: #4b0082;
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+.summary-title > span {
+  color: #d02ce2;
+}
+
+.summary-description {
+  color: #000;
+  font-size: 16px;
+  line-height: 1.6;
+}
+
+.summary-subtitle {
+  color: #4b0082;
+  font-size: 20px;
+  margin-top: 20px;
+}
+
+.summary-features {
+  list-style-type: none;
+  padding: 0;
+}
+
+.summary-features li {
+  background-color: #f0d9f0;
+  margin: 8px 0;
+  padding: 10px;
+  border-radius: 4px;
+  color: #000;
+}
+
+.summary-conclusion {
+  margin-top: 20px;
+  color: #000;
+  font-style: italic;
+}

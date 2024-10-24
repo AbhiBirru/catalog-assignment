@@ -1,0 +1,30 @@
+.current-main {
+  margin: 30px;
+  margin-left: 60px;
+}
+
+.current-main--item {
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+}
+
+.price {
+  font-weight: 400;
+  font-size: 60px;
+  line-height: 70px;
+}
+
+.currency {
+  font-size: 24px;
+  margin-top: 8px;
+  color: #bdbebf;
+}
+.pl {
+  margin-top: 10px;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 22.77px;
+  text-align: left;
+  color: #67bf6b;
+}
